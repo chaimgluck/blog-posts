@@ -1,2 +1,2 @@
 # Scraping and Summarizing News Articles
-Sample code to scrape and summarize news articles. Accompanies this blog post: 
+Sample code to scrape and summarize news articles. Accompanies this blog post: here
